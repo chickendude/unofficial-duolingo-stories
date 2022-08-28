@@ -29,4 +29,5 @@ export function LoggedInButton(props) {
                 <div className="profile_dropdown_button" onClick={() => doLogout()} >Log out</div>
             </div>
         </div>
+    return <></>
 }
